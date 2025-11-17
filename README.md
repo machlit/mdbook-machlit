@@ -2,6 +2,12 @@
 
 The core documentation theme for Machlit; used with the [mdbook](https://github.com/rust-lang/mdBook) markdown-based documenting tool.
 
+## Demo
+
+| Light | Dark |
+|---|---|
+| <img src="./screenshots/light.png"> | <img src="./screenshots/dark.png"> |
+
 ## Installation
 
 1. Create a new mdBook project with the `--theme` flag:
